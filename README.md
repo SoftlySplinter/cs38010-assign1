@@ -23,14 +23,21 @@ Timescales, credit, etc.
 This assignment carries 50% of the marks for this module. The text part of your report should not exceed 1500 words.  Your work should be posted in the usual postbox in the department and it must be bound with one of the ‘Declaration of Originality’ cover sheets duly signed.
 
 Hand in date is Friday 22 March 2013.
-Assessment Criteria & Rules
-The assessment criteria can be found at:
-http://www.aber.ac.uk/~dcswww/Dept/Teaching/Handbook/appendices2.htm#_Toc141163076
-The marking scheme is
-Business Description, Competitor Analysis, SWOT, Personnel and Marketing – 60%
-Financial Forecasts – 40%
 
-Rules:
+
+Assessment Criteria
+-------------------
+
+The assessment criteria can be found at: http://www.aber.ac.uk/~dcswww/Dept/Teaching/Handbook/appendices2.htm#_Toc141163076
+
+The marking scheme is:
+
+* Business Description, Competitor Analysis, SWOT, Personnel and Marketing – 60%
+* Financial Forecasts – 40%
+
+
+Rules
+-----
 
 1. You must not use pre-built business planning software.
 2. You must employ at least four people including yourself in the first year.
