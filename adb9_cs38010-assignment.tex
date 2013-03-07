@@ -29,8 +29,8 @@
 \usepackage{booktabs} % Horizontal rules in tables
 \usepackage{fix-cm}	 % Custom font sizes - used for the initial letter in the document
 
-\usepackage{sectsty} % Enables custom section titles
-\allsectionsfont{\usefont{OT1}{phv}{b}{n}} % Change the font of all section commands
+\usepackage{sectsty} % Enables custom subsection titles
+%\allsubsectionsfont{\usefont{OT1}{phv}{b}{n}} % Change the font of all subsection commands
 
 \usepackage{fancyhdr} % Needed to define custom headers/footers
 \pagestyle{fancy} % Enables the custom headers/footers
@@ -91,24 +91,116 @@
 \thispagestyle{fancy} % Enabling the custom headers/footers for the first page 
 
 \tableofcontents
+\newpage
 
 %----------------------------------------------------------------------------------------
 %	ARTICLE CONTENTS
 %----------------------------------------------------------------------------------------
 
-\section{Business Description}
-\lipsum[1-5]
+\section{Summary}
 
-\section{Competitor Analysis}
-\lipsum[6-10]
+\subsection{Executive Summary}
 
-\section{SWOT Analysis}
-\lipsum[11-15]
+\subsection{Business Detail}
+\subsubsection*{Company Name}
+Lorem Ipsum Ltd.
 
-\section{Personnel}
-\lipsum[16-20]
+\subsubsection*{Address}
+42 Lorem Ipsum,\\
+Aberystwyth,\\
+Ceredigion,\\
+England
 
-\section{Marketing Strategy}
-\lipsum[21-25]
+\subsubsection*{Telephone Number}
++44 1234 987765
+
+\subsubsection*{The Business Will}
+% Brief Description
+
+
+\subsection{Key Personnel}
+\subsubsection*{Details of Owners}
+\begin{description}
+\item[Name:] Alexander Brown
+\item[Position and Main Responsibilities:] Lead Software Developer
+\item[Experience and Knowledge of our industry:] 3 years Experience with the Java programming 
+language including mobile application and OSGi development. 1 year Linux administration. %TODO
+\item[Previous Employment:] CICS L3 Service Tooling Engineer, IBM UK.
+\item[Key Skills Brought to the Business:] Software Development and Server Administration.
+\item[Academic/Professions Qualifications:] Java 7 Certification.
+\end{description}
+
+\subsubsection*{Other Key Personnel}
+
+%TODO
+
+\section{Vision}
+
+\subsection{Business Ideas}
+% Sum up your business idea
+
+\subsection{Business Goals}
+\subsubsection*{First Year of Business}
+\subsubsection*{The Business in 5 Years}
+
+\subsection{What the Business Does}
+\begin{tabular}{|l|l|l|}\hline
+Product/Service & Features & Benefits \\ \hline
+\end{tabular}
+
+
+\subsection{What Makes the Business Different}
+% Your product/service is unique or different compared with the competition because:
+
+\subsection{Legal Requirements}
+% Blah
+
+
+\section{Marketing}
+
+\subsection{Market Research}
+% Trends and how you know them
+
+\subsection{Profiling Customers}
+% Customer Groups and research
+
+\subsection{Profiling Competitors}
+\begin{tabular}{|l|l|l|} \hline
+Competitor Name & Strengths & Weaknesses \\ \hline
+\end{tabular}
+
+\subsection{Managing Marketing Risks}
+
+\section{Pricing}
+
+\begin{tabular}{|l|l|l|} \hline
+Product/Service & Your Price(s) & Range of Competitor Prices (per unit) \\ \hline
+\end{tabular}
+
+\subsection{Promotion and Advertisement}
+
+\subsection{Running the Business}
+
+\subsection{Staff}
+\begin{tabular}{|l|l|l|l|}\hline
+Role & Total Cost & Necessary Experience & Specialist Skills or Experience \\ \hline
+\end{tabular}
+
+\subsection{Premises}
+\begin{tabular}{|l|l|} \hline
+                               & Cost (\pounds) \\ \hline
+Premises required at start-up: & ???            \\ \hline
+\end{tabular}
+
+\subsection{Suppliers}
+\begin{tabular}{|l|l|l|} \hline
+Supplier & Product & Credit \\ \hline
+\end{tabular}
+
+\subsection{Equipment}
+
+\subsection{Managing Operational Risks}
+
+\section{Finance}
 
 \end{document}
